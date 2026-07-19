@@ -24,7 +24,7 @@ soldering, and flight controller calibration.
 
 ## Photos
 
-[Drone assembled]()
+[Drone assembled](https://github.com/Aditya-0863/quadcopter-apm2.8/tree/main/images)
 
 ## Video
 
